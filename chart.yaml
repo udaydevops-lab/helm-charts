@@ -2,4 +2,4 @@ apiVersion: v1
 name: nginx
 Version: 0.0.1  # this is chart version   
 description: this is customised helm chart for nginx
-appVersion: 1.0.0     #this is application version
+appVersion: 1.0.1     #this is application version
